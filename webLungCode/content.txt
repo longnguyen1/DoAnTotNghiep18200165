@@ -1,0 +1,48 @@
+project
+- admin(trang quan tri)
+
+-assets
+    - css, js, image
+-views
+- .htaccess
+- config.php
+- index1.php
+
+
+trang web quản lý thông tin chuyên gia:
+- Home
+- agriculture
+- industry
+- service
+1. Nhóm ngành sản xuất và chế biến
+    - Ngành công nghệ thực phẩm
+    - Công nghệ chế biến thủy sản
+    - Ngành kỹ thuật dệt
+    - Công nghệ da giầy
+    - Công nghệ chế biến lâm sản
+2. Nhóm ngành kiến trúc và xây dựng
+    - Ngành kiến trúc
+    - Ngành xây dựng
+3. Nhóm những ngành kinh doanh
+    - Ngành quản trị kinh doanh
+    - Ngành quản trị dịch vụ du lịch và lữ hành
+    - Ngành quản trị khách sạn
+    - Ngành Marketing
+    - Ngành nghề môi giới bất động sản
+    - Ngành kinh doanh quốc tế
+    - Ngành kế toán
+    - Ngành kiểm toán
+    - Ngành quản trị nhân lực
+    - Ngành hệ thống thông tin quản lý
+4. Nhóm các ngành công nghệ - thông tin
+    - Ngành khoa học - máy tính
+    - Ngành truyền thông đa phương tiện
+    - Ngành kỹ thuật phần mềm
+    - Ngành công nghệ thông tin
+5. Nhóm ngành luật
+    - luật kinh tế
+    - Luật quốc tế
+7. Nhóm ngành báo chí - khoa học và xã hội
+8. Nhóm ngành khoa học cơ bản
+9. Nhóm ngành Sư phạm
+10. Nhóm ngành nông - lâm - ngư nghiệp
